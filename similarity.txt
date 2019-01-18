@@ -1,0 +1,1 @@
+Podobieństwo jest wyliczane dla każdej kolumny osobno licząc odległość euklidesową pomiędzy badanym filmem a każdym innym w zbiorze.
